@@ -46,6 +46,7 @@ form #display input{
     background-color: white;
     margin: 2px;
 }
-#equal{
+.equal{
+    outline: 1px solid red;
     width: 145px;
 }
