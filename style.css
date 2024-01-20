@@ -50,3 +50,7 @@ form #display input{
     outline: 1px solid red;
     width: 145px;
 }
+.disable{
+    pointer-events: none;
+    opacity: .8;
+}
